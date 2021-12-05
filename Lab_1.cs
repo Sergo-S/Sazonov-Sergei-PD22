@@ -8,6 +8,9 @@ namespace Lab_1
 {
     class Program
     {
+        /*
+        4. Реалізувати метод, що буде масив повертати задом навпаки (Використання Array.Reverse() заборонено!)
+        */
         
         static void ArrayReverse(int[] arr , int N)
         {
